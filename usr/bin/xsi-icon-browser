@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python3 /usr/lib/xapp-symbolic-icons-browser/xsi-icon-browser.py
