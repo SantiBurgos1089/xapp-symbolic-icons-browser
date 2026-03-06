@@ -3,7 +3,7 @@
 import json
 import pathlib
 
-def find_icons(directory, pattern_data = "xsi-*", test=False):
+def find_xsi_icons(directory, pattern_data = "xsi-*", test=False):
     base_directory = pathlib.Path(directory)
     result_info = []
 
