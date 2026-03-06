@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=XApp Symbolic Icon Browser
+Comment=An application that shows all xapp-symbolic-icons available
+Exec=xsi-icon-browser
+Icon=application-x-firmware
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Development;GTK
+Name[en_US]=xsi-icon-browser.desktop
